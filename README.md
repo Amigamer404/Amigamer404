@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Amigamer404
 - 👀 I’m interested in Cyber security 
-- 🌱 I’m currently learning Python-php-Js
-- 💞️ I’m looking to collaborate on my project 
 - 📫 How to reach me amigamer404@gmail.com
 
 <!---
